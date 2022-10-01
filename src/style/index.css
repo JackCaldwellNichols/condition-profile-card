@@ -1,11 +1,12 @@
 .filters {
-  background: white;
+  background: rgb(10, 7, 7);
   width: 100%;
 }
 .filters li {
   display: inline-block;
   max-width: 80px;
   padding: 3px;
+  color: white;
 }
 .filters li label {
   display: block;
@@ -70,7 +71,7 @@
   position: absolute;
   top: 20px;
   padding: 0;
-  background: #2cdfd3;
+  background: #d91c0b;
 }
 .widget ul.position-left {
   left: -26px;
@@ -91,7 +92,7 @@
   transition: background-color 0.3s;
 }
 .widget ul li:hover > a {
-  background-color: #2cd5ca;
+  background-color: #140301;
 }
 .widget ul li:first-child > a {
   border-radius: 0 3px 0 0;
